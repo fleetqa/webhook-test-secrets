@@ -8,4 +8,4 @@ spec:
   paths:
   - simple
   disablePolling: true
-  webhookSecret: webhook-secret-name
+  webhookSecret: webhook-secret-name-1
