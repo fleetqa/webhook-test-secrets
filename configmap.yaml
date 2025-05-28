@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: simple-config
 data:
-  test: "value-1s2"
+  test: "value-25"
